@@ -23,7 +23,7 @@ No standard CS track, just implementation, prototyping, and system design. If I 
 
 <br/>
 
-## <img src="https://img.icons8.com/?size=100&id=dSHpY8hReeVI&format=png&color=FFFFFF" width="26" align="absmiddle"/> Languages & Tools I Have Placed My Hands On
+## <img src="https://img.icons8.com/?size=100&id=dSHpY8hReeVI&format=png&color=FFFFFF" width="26" align="absmiddle"/> Languages & Tools
 
 <div align="center">
 
@@ -48,5 +48,9 @@ No standard CS track, just implementation, prototyping, and system design. If I 
 ## <img src="https://img.icons8.com/?size=100&id=58808&format=png&color=FFFFFF" width="26" align="absmiddle"/> Featured Projects
 
 **[ETP_CONTROL_SYSTEM](https://github.com/aidnth14/ETP_CONTROL_SYSTEM)** &nbsp; Boiler exhaust vent to ETP scrubber control: asyncio PLC scan cycle logic (IEC 61131 style), Modbus TCP, PySide6 SCADA HMI
+
+**[dearly](https://github.com/aidnth14/dearly)** &nbsp; Personal project
+
+**[trakd](https://github.com/aidnth14/trakd)** &nbsp; Tracking app
 
 **[InFox.web](https://github.com/aidnth14/InFox.web)** &nbsp; Web project built with CSS
