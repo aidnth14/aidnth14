@@ -21,6 +21,8 @@ I learn by **building first**: shipping prototypes, reverse engineering ideas, i
 
 No standard CS track, just implementation, prototyping, and system design. If I want to know how something works, I build it.
 
+<br/>
+
 ## <img src="https://img.icons8.com/?size=100&id=dSHpY8hReeVI&format=png&color=FFFFFF" width="26" align="absmiddle"/> Languages & Tools I Have Placed My Hands On
 
 <div align="center">
