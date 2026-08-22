@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aiden Shoroz <img src="assets/wave.png" width="30" align="absmiddle"/>
+# Hi, I'm Aiden Shoroz <img src="assets/wave.png" width="42" align="absmiddle"/>
 
 **Self taught engineer from Bangladesh <img src="https://img.icons8.com/?size=100&id=Y6y6JrViiFN5&format=png" width="20" align="absmiddle"/> · he/him**
 
@@ -25,7 +25,7 @@ I learn by **building first**: shipping prototypes, reverse engineering ideas, i
 
 No standard CS track, just implementation, prototyping, and system design. If I want to know how something works, I build it.
 
-## <img src="https://img.icons8.com/?size=100&id=2802&format=png&color=FFFFFF" width="26" align="absmiddle"/> Languages & Tools I Have Placed My Hands On
+## <img src="https://img.icons8.com/?size=100&id=dSHpY8hReeVI&format=png&color=FFFFFF" width="26" align="absmiddle"/> Languages & Tools I Have Placed My Hands On
 
 <div align="center">
 
@@ -44,7 +44,7 @@ No standard CS track, just implementation, prototyping, and system design. If I 
 
 </div>
 
-## <img src="https://img.icons8.com/?size=100&id=2802&format=png&color=FFFFFF" width="26" align="absmiddle"/> Featured Projects
+## <img src="https://img.icons8.com/?size=100&id=58808&format=png&color=FFFFFF" width="26" align="absmiddle"/> Featured Projects
 
 **[ETP_CONTROL_SYSTEM](https://github.com/aidnth14/ETP_CONTROL_SYSTEM)** &nbsp; Boiler exhaust vent to ETP scrubber control: asyncio PLC scan cycle logic (IEC 61131 style), Modbus TCP, PySide6 SCADA HMI
 
