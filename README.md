@@ -36,5 +36,3 @@ No standard CS track, just implementation, prototyping, and system design. If I 
 **[ETP_CONTROL_SYSTEM](https://github.com/aidnth14/ETP_CONTROL_SYSTEM)** &nbsp; Boiler exhaust vent to ETP scrubber control: asyncio PLC scan cycle logic (IEC 61131 style), Modbus TCP, PySide6 SCADA HMI
 
 **[InFox.web](https://github.com/aidnth14/InFox.web)** &nbsp; Web project built with CSS
-
-**[iloveisha](https://github.com/aidnth14/iloveisha)** &nbsp; Web project built with CSS
