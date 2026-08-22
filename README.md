@@ -15,15 +15,26 @@
 
 ## 🧠 About Me
 
-I'm a self-taught individual from Bangladesh. My journey started in late 2019 when I was twelve years old — stuck at home during the Covid pandemic, I became deeply interested in **creating my own systems** rather than just using the ones other people had made.
+Self-taught from Bangladesh 🇧🇩. Started coding at twelve during the 2019 lockdown — hooked on **building systems** instead of just using them.
 
-<img src="https://img.icons8.com/?size=100&id=HH6pnjRzZrc2&format=png&color=FFFFFF" width="18" align="center"/>&nbsp; Started in **game dev** with Scratch → Pygame → Python → Godot <br/>
-<img src="https://img.icons8.com/?size=100&id=1349&format=png&color=FFFFFF" width="18" align="center"/>&nbsp; Moved into **web dev** — HTML, CSS, JavaScript, Node.js, React Native <br/>
-<img src="https://img.icons8.com/?size=100&id=12680&format=png&color=FFFFFF" width="18" align="center"/>&nbsp; Went deeper into **backend engineering** — FastAPI, Node.js, Docker, SQLite, Redis
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=HH6pnjRzZrc2&format=png&color=FFFFFF" width="26"/></td>
+    <td><b>Game dev</b> — Scratch → Pygame → Python → Godot</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=1349&format=png&color=FFFFFF" width="26"/></td>
+    <td><b>Web dev</b> — HTML, CSS, JavaScript, Node.js, React Native</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=12680&format=png&color=FFFFFF" width="26"/></td>
+    <td><b>Backend</b> — FastAPI, Node.js, Docker, SQLite, Redis</td>
+  </tr>
+</table>
 
-I mainly taught myself by **building first and learning as needed** — experimenting with small, unpublished programs and reverse-engineering existing ideas. Projects I've built include a **voxel editor**, a **custom 3D rendering engine**, a **pixel editor** inspired by Aseprite, and **task management software** in Kotlin and Python.
+I learn by **building first** — shipping prototypes, reverse-engineering ideas, iterating fast. Past builds: a **voxel editor**, a **3D rendering engine**, an Aseprite-style **pixel editor**, and **task-management software** in Kotlin and Python.
 
-Instead of following a standard CS curriculum, I sharpen my skills through hands-on implementation, rapid prototyping, system design, and iterative problem-solving.
+No standard CS track — just implementation, prototyping, and system design. If I want to know how something works, I build it.
 
 ---
 
