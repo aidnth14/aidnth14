@@ -17,9 +17,9 @@
 
 I'm a self-taught individual from Bangladesh. My journey started in late 2019 when I was twelve years old — stuck at home during the Covid pandemic, I became deeply interested in **creating my own systems** rather than just using the ones other people had made.
 
-- 🎮 Started in **game dev** with Scratch → Pygame → Python → Godot
-- 🌐 Moved into **web dev** — HTML, CSS, JavaScript, Node.js, React Native
-- ⚙️ Went deeper into **backend engineering** — FastAPI, Node.js, Docker, SQLite, Redis
+- <img src="https://img.icons8.com/?size=100&id=HH6pnjRzZrc2&format=png" width="18" align="center"/> Started in **game dev** with Scratch → Pygame → Python → Godot
+- <img src="https://img.icons8.com/?size=100&id=1349&format=png" width="18" align="center"/> Moved into **web dev** — HTML, CSS, JavaScript, Node.js, React Native
+- <img src="https://img.icons8.com/?size=100&id=12680&format=png" width="18" align="center"/> Went deeper into **backend engineering** — FastAPI, Node.js, Docker, SQLite, Redis
 
 I mainly taught myself by **building first and learning as needed** — experimenting with small, unpublished programs and reverse-engineering existing ideas. Projects I've built include a **voxel editor**, a **custom 3D rendering engine**, a **pixel editor** inspired by Aseprite, and **task management software** in Kotlin and Python.
 
@@ -43,20 +43,6 @@ Instead of following a standard CS curriculum, I sharpen my skills through hands
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidnth14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidnth14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aidnth14&theme=tokyonight&hide_border=true)
 
 </div>
 
