@@ -15,11 +15,7 @@
 
 Self taught from Bangladesh <img src="https://img.icons8.com/?size=100&id=Y6y6JrViiFN5&format=png" width="18" align="absmiddle"/>. Started coding at twelve during the 2019 lockdown, hooked on **building systems** instead of just using them.
 
-<img src="https://img.icons8.com/?size=100&id=HH6pnjRzZrc2&format=png&color=FFFFFF" width="22" align="absmiddle"/> &nbsp; **Game dev** &nbsp; Scratch → Pygame → Python → Godot
-
-<img src="https://img.icons8.com/?size=100&id=1349&format=png&color=FFFFFF" width="22" align="absmiddle"/> &nbsp; **Web dev** &nbsp; HTML, CSS, JavaScript, Node.js, React Native
-
-<img src="https://img.icons8.com/?size=100&id=12680&format=png&color=FFFFFF" width="22" align="absmiddle"/> &nbsp; **Backend** &nbsp; FastAPI, Node.js, Docker, SQLite, Redis
+<img src="https://img.icons8.com/?size=100&id=HH6pnjRzZrc2&format=png&color=FFFFFF" width="20" align="absmiddle"/> **Game dev** &nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/?size=100&id=1349&format=png&color=FFFFFF" width="20" align="absmiddle"/> **Web dev** &nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/?size=100&id=12680&format=png&color=FFFFFF" width="20" align="absmiddle"/> **Backend**
 
 I learn by **building first**: shipping prototypes, reverse engineering ideas, iterating fast. Past builds include a **voxel editor**, a **3D rendering engine**, an Aseprite style **pixel editor**, and **task management software** in Kotlin and Python.
 
