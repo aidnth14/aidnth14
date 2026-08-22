@@ -55,13 +55,3 @@ Instead of following a standard CS curriculum, I sharpen my skills through hands
 | [**ETP_CONTROL_SYSTEM**](https://github.com/aidnth14/ETP_CONTROL_SYSTEM) | Boiler exhaust vent → ETP scrubber control system: asyncio PLC scan-cycle logic (IEC 61131-3 style), Modbus TCP, PySide6 SCADA HMI |
 | [**InFox.web**](https://github.com/aidnth14/InFox.web) | Web project built with CSS |
 | [**iloveisha**](https://github.com/aidnth14/iloveisha) | Web project built with CSS |
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aidnth14&style=for-the-badge&color=blueviolet)
-
-*Built things first. Learned as needed. Still building.*
-
-</div>
