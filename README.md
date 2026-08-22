@@ -27,7 +27,21 @@ No standard CS track, just implementation, prototyping, and system design. If I 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,kotlin,git,react,sqlite,docker,bash&perline=6&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48"/>
 
 </div>
 
