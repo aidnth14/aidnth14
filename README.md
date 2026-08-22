@@ -47,8 +47,6 @@ No standard CS track, just implementation, prototyping, and system design. If I 
 
 **[ETP_CONTROL_SYSTEM](https://github.com/aidnth14/ETP_CONTROL_SYSTEM)** &nbsp; Boiler exhaust vent to ETP scrubber control: asyncio PLC scan cycle logic (IEC 61131 style), Modbus TCP, PySide6 SCADA HMI
 
-**[dearly](https://github.com/aidnth14/dearly)** &nbsp; Personal project
+**[dearly](https://github.com/aidnth14/dearly)** &nbsp; An e-bouquet and digital letter sending platform
 
-**[trakd](https://github.com/aidnth14/trakd)** &nbsp; Tracking app
-
-**[InFox.web](https://github.com/aidnth14/InFox.web)** &nbsp; Web project built with CSS
+**[trakd](https://github.com/aidnth14/trakd)** &nbsp; A music personalisation and collection library
