@@ -17,20 +17,11 @@
 
 Self-taught from Bangladesh 🇧🇩. Started coding at twelve during the 2019 lockdown — hooked on **building systems** instead of just using them.
 
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=HH6pnjRzZrc2&format=png&color=FFFFFF" width="26"/></td>
-    <td><b>Game dev</b> — Scratch → Pygame → Python → Godot</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=1349&format=png&color=FFFFFF" width="26"/></td>
-    <td><b>Web dev</b> — HTML, CSS, JavaScript, Node.js, React Native</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=12680&format=png&color=FFFFFF" width="26"/></td>
-    <td><b>Backend</b> — FastAPI, Node.js, Docker, SQLite, Redis</td>
-  </tr>
-</table>
+<img src="https://img.icons8.com/?size=100&id=HH6pnjRzZrc2&format=png&color=FFFFFF" width="22" align="absmiddle"/> &nbsp; **Game dev** &nbsp; Scratch → Pygame → Python → Godot
+
+<img src="https://img.icons8.com/?size=100&id=1349&format=png&color=FFFFFF" width="22" align="absmiddle"/> &nbsp; **Web dev** &nbsp; HTML, CSS, JavaScript, Node.js, React Native
+
+<img src="https://img.icons8.com/?size=100&id=12680&format=png&color=FFFFFF" width="22" align="absmiddle"/> &nbsp; **Backend** &nbsp; FastAPI, Node.js, Docker, SQLite, Redis
 
 I learn by **building first** — shipping prototypes, reverse-engineering ideas, iterating fast. Past builds: a **voxel editor**, a **3D rendering engine**, an Aseprite-style **pixel editor**, and **task-management software** in Kotlin and Python.
 
