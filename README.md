@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Aiden Shoroz 👋
+# Hi, I'm Aiden Shoroz <img src="assets/wave.png" width="30" align="absmiddle"/>
 
-**Self-taught engineer from Bangladesh 🇧🇩 · he/him**
+**Self taught engineer from Bangladesh <img src="https://img.icons8.com/?size=100&id=Y6y6JrViiFN5&format=png" width="20" align="absmiddle"/> · he/him**
 
 *"If I'm interested in finding out how something works, then I build it."*
 
@@ -11,11 +11,9 @@
 
 </div>
 
----
+## <img src="https://img.icons8.com/?size=100&id=2802&format=png&color=FFFFFF" width="26" align="absmiddle"/> About Me
 
-## 🧠 About Me
-
-Self-taught from Bangladesh 🇧🇩. Started coding at twelve during the 2019 lockdown — hooked on **building systems** instead of just using them.
+Self taught from Bangladesh <img src="https://img.icons8.com/?size=100&id=Y6y6JrViiFN5&format=png" width="18" align="absmiddle"/>. Started coding at twelve during the 2019 lockdown, hooked on **building systems** instead of just using them.
 
 <img src="https://img.icons8.com/?size=100&id=HH6pnjRzZrc2&format=png&color=FFFFFF" width="22" align="absmiddle"/> &nbsp; **Game dev** &nbsp; Scratch → Pygame → Python → Godot
 
@@ -23,13 +21,11 @@ Self-taught from Bangladesh 🇧🇩. Started coding at twelve during the 2019 l
 
 <img src="https://img.icons8.com/?size=100&id=12680&format=png&color=FFFFFF" width="22" align="absmiddle"/> &nbsp; **Backend** &nbsp; FastAPI, Node.js, Docker, SQLite, Redis
 
-I learn by **building first** — shipping prototypes, reverse-engineering ideas, iterating fast. Past builds: a **voxel editor**, a **3D rendering engine**, an Aseprite-style **pixel editor**, and **task-management software** in Kotlin and Python.
+I learn by **building first**: shipping prototypes, reverse engineering ideas, iterating fast. Past builds include a **voxel editor**, a **3D rendering engine**, an Aseprite style **pixel editor**, and **task management software** in Kotlin and Python.
 
-No standard CS track — just implementation, prototyping, and system design. If I want to know how something works, I build it.
+No standard CS track, just implementation, prototyping, and system design. If I want to know how something works, I build it.
 
----
-
-## 🛠️ Languages & Tools I Have Placed My Hands On
+## <img src="https://img.icons8.com/?size=100&id=2802&format=png&color=FFFFFF" width="26" align="absmiddle"/> Languages & Tools I Have Placed My Hands On
 
 <div align="center">
 
@@ -48,12 +44,10 @@ No standard CS track — just implementation, prototyping, and system design. If
 
 </div>
 
----
+## <img src="https://img.icons8.com/?size=100&id=2802&format=png&color=FFFFFF" width="26" align="absmiddle"/> Featured Projects
 
-## 📌 Featured Projects
+**[ETP_CONTROL_SYSTEM](https://github.com/aidnth14/ETP_CONTROL_SYSTEM)** &nbsp; Boiler exhaust vent to ETP scrubber control: asyncio PLC scan cycle logic (IEC 61131 style), Modbus TCP, PySide6 SCADA HMI
 
-| Project | Description |
-| --- | --- |
-| [**ETP_CONTROL_SYSTEM**](https://github.com/aidnth14/ETP_CONTROL_SYSTEM) | Boiler exhaust vent → ETP scrubber control system: asyncio PLC scan-cycle logic (IEC 61131-3 style), Modbus TCP, PySide6 SCADA HMI |
-| [**InFox.web**](https://github.com/aidnth14/InFox.web) | Web project built with CSS |
-| [**iloveisha**](https://github.com/aidnth14/iloveisha) | Web project built with CSS |
+**[InFox.web](https://github.com/aidnth14/InFox.web)** &nbsp; Web project built with CSS
+
+**[iloveisha](https://github.com/aidnth14/iloveisha)** &nbsp; Web project built with CSS
